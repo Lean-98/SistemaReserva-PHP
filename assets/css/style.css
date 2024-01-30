@@ -1,0 +1,8 @@
+.footer {
+    padding: 1rem;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .05);
+    color: black;
+    width: 250px;
+    margin: 0 auto;
+    margin-top: 5%;
+}

@@ -1,0 +1,15 @@
+{
+  "name": "sistema-de-reservas-php",
+  "version": "1.0.0",
+  "description": "Prueba ténica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leandro Piazza",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "5.3.2",
+    "composer": "^4.1.0"
+  }
+}
